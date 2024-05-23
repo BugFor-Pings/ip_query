@@ -1,0 +1,27 @@
+ip(查询的ip)： 111.246.3.199  
+geocode(地理编码): 158071003005 
+asn(所属路由)： HINET Data Communication Business Group  
+asnCode(路由编码): AS3462  
+iana(互联网数字分配国家): 中国台湾  
+ianaEn(互联网数字分配国家代码)： TW  
+country(国家)： 中国  
+province（省份）： 台湾  
+city(城市)： 台中市  
+districts(区县)： 北区  
+isp(运营商): 中华电信  
+netWorkType(网络类型)： 普通宽带  
+score(真人概率-不准确)： 76 
+latitude(纬度)： 24.144 
+longitude(经度): 120.6844  
+radius(覆盖半经-单位:米): 9.0  
+mbRate(秒拨概率): 暂未发现  
+continent(所属大陆): AS  
+timezone(所属时区)： +0800  
+countryCode(国家代码): TW  
+provinceCode(省代码): 710000  
+cityCode(城市代码): 710300  
+districtCode(地区代码)： 710305  
+vpn(是否VPN-不准确): False  
+tor(是否tor-不准确): False  
+proxy(是否代理-不准确)： False  
+spider(是否爬虫-不准确) ： False  

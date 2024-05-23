@@ -1,0 +1,27 @@
+ip(查询的ip)： 36.227.247.186  
+geocode(地理编码): 158071004003 
+asn(所属路由)： HINET Data Communication Business Group  
+asnCode(路由编码): AS3462  
+iana(互联网数字分配国家): 中国台湾  
+ianaEn(互联网数字分配国家代码)： TW  
+country(国家)： 中国  
+province（省份）： 台湾  
+city(城市)： 台北市  
+districts(区县)： 中山区  
+isp(运营商): 中华电信  
+netWorkType(网络类型)： 普通宽带  
+score(真人概率-不准确)： 61 
+latitude(纬度)： 25.0504 
+longitude(经度): 121.5324  
+radius(覆盖半经-单位:米): 45.0  
+mbRate(秒拨概率): 暂未发现  
+continent(所属大陆): AS  
+timezone(所属时区)： +0800  
+countryCode(国家代码): TW  
+provinceCode(省代码): 710000  
+cityCode(城市代码): 710400  
+districtCode(地区代码)： 710403  
+vpn(是否VPN-不准确): False  
+tor(是否tor-不准确): False  
+proxy(是否代理-不准确)： False  
+spider(是否爬虫-不准确) ： False  

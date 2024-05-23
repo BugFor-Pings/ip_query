@@ -1,0 +1,27 @@
+ip(查询的ip)： 38.150.11.214  
+geocode(地理编码): 840009001001 
+asn(所属路由)： EDCL-AS-AP Eons Data Communications Limited  
+asnCode(路由编码): AS138997  
+iana(互联网数字分配国家): 美国  
+ianaEn(互联网数字分配国家代码)： US  
+country(国家)： 美国  
+province（省份）： 哥伦比亚特区  
+city(城市)： 华盛顿  
+districts(区县)： 未知  
+isp(运营商): Cogent Communications Inc.  
+netWorkType(网络类型)： 专线用户  
+score(真人概率-不准确)： 60 
+latitude(纬度)： 35.6164 
+longitude(经度): 139.7425  
+radius(覆盖半经-单位:米): 8.0  
+mbRate(秒拨概率): 暂未发现  
+continent(所属大陆): NA  
+timezone(所属时区)： -0500  
+countryCode(国家代码): US  
+provinceCode(省代码): 未知  
+cityCode(城市代码): 未知  
+districtCode(地区代码)： 未知  
+vpn(是否VPN-不准确): True  
+tor(是否tor-不准确): False  
+proxy(是否代理-不准确)： False  
+spider(是否爬虫-不准确) ： False  

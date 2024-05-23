@@ -1,0 +1,27 @@
+ip(查询的ip)： 218.190.235.217  
+geocode(地理编码): 344081001001 
+asn(所属路由)： HUTCHISON-AS-AP HGC Global Communications Limited  
+asnCode(路由编码): AS9304  
+iana(互联网数字分配国家): 中国香港  
+ianaEn(互联网数字分配国家代码)： HK  
+country(国家)： 中国  
+province（省份）： 香港  
+city(城市)： 香港岛  
+districts(区县)： 中西区  
+isp(运营商): 香港环球全域电讯  
+netWorkType(网络类型)： 移动数据  
+score(真人概率-不准确)： 63 
+latitude(纬度)： 30.311684 
+longitude(经度): 120.343001  
+radius(覆盖半经-单位:米): 46.0  
+mbRate(秒拨概率): 暂未发现  
+continent(所属大陆): AS  
+timezone(所属时区)： +0800  
+countryCode(国家代码): HK  
+provinceCode(省代码): 810000  
+cityCode(城市代码): 810100  
+districtCode(地区代码)： 810101  
+vpn(是否VPN-不准确): False  
+tor(是否tor-不准确): False  
+proxy(是否代理-不准确)： False  
+spider(是否爬虫-不准确) ： False  
