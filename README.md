@@ -26,7 +26,7 @@ city(城市)： 香港岛
 districts(区县)： 中西区  
 isp(运营商): 香港环球全域电讯  
 netWorkType(网络类型)： 移动数据  
-score(真人概率-不准确)： 63 
+score(真人概率-不准确)： 63
 latitude(纬度)： 30.311684
 longitude(经度): 120.343001  
 radius(覆盖半经-单位:米): 46.0  
