@@ -11,6 +11,11 @@ ip_quey是一个用来查询相关ip信息的工具。
 
 4.利用格式化字符串将json中对应的结果保存到txt文件中
 
+使用教程：
+
+python ip_query.py -f ip.txt
+
+python ip_query.py -t ip地址
 
 结果样列
 
